@@ -1,0 +1,15 @@
+build/
+DerivedData/
+xcuserdata/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+Podfile.lock
+.build/
+Carthage/Build/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+*.swp
+*.lock
